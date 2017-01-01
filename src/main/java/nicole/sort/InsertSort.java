@@ -16,7 +16,6 @@ public class InsertSort {
         a[i]=a[j];
         a[j]=t;
     }
-
     private static void show(Comparable[] a)
     {
         //
